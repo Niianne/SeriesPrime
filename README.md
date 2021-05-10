@@ -9,5 +9,5 @@ Primeiro Projeto
 ### Projeto para cadastro de séries.
 
 ## Liste suas séries favóritas de uma maneira pratica e organizada.
-## Tudo isso com o comando dotnet/run.
+## Tudo isso com o comando:  dotnet run
 ## Extremamente organizado e com o essencial que você precisa!
